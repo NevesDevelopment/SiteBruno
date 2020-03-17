@@ -17,7 +17,7 @@ export default class Gessos extends Component {
                     <p><i className="fas fa-mobile-alt"></i>&nbsp;(00) 0000-0000</p>
                     <p><i className="fas fa-envelope-square"></i>&nbsp;brunoPintura@gmail.com</p>
                     <hr />
-                    <p className="mb-0">Desde já, agradeceu o seu contato e preferência!</p>
+                    <p className="mb-0">Desde já, agradeço o seu contato e preferência!</p>
                 </Alert>
             </div>
         );
