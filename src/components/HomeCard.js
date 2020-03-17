@@ -33,7 +33,7 @@ export default class Home extends Component{
                     tela="/Gessos" 
                     title="GESSO" 
                     foto="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs_fxi_gosSy20qJzf6Ki6qX6R2y_1MbYM7ZWx_x3kLgLyakKA" 
-                    descricao="Revestimentos em gesso, elimina a necessidade de massa corrida na pintura, muito ultilizado em acabmentos  e efeitos decorativo."
+                    descricao="Revestimentos em gesso, elimina a necessidade de massa corrida na pintura, muito ultilizado em acabamentos  e efeitos decorativo."
                     />
                     <HomeCard 
                     tela="/Texturas" 
