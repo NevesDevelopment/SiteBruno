@@ -1,26 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
+//--------------------------------------Carrega Bibliotecas-----------------------------------------//
+import React, { Component } from 'react';
+//---------------------------------------Carrega Elementos------------------------------------------//
 import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import NavBar from './ui/NavBar';
+import Home from './components/HomeCard';
+import ContatoHome from './container/ContatoHome'
+//-------------------------------------------------------------------------------------------------//
+class App extends Component {
+  render() {
+    return (
+      //---------------------------------Carrega os componentes em tela----------------------------------//
+      <div id="divFundo" className="container-fluid " >
+        <NavBar/>
+        <div id="divCarousel">
+          <Home/>
+          <ContatoHome/>
+        </div>
+      </div>
+    );
+  }
 }
-
+//-------------------------------------------------------------------------------------------------//
 export default App;
