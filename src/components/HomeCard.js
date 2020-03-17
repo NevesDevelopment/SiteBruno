@@ -38,13 +38,13 @@ export default class Home extends Component{
                     <HomeCard 
                     tela="/Texturas" 
                     title="TEXTURA" 
-                    foto="https://assets.izap.com.br/clubedastintas.com/uploads/img5a3bda309ceef.jpg" 
+                    foto="https://construindodecor.com.br/wp-content/uploads/2015/08/textura-com-rolo.jpg"
                     descricao="Trabalhos com textura é uma ótima alternativa para a decoração, aplicadas em uma demão, possuem uma grande variedade de cores."
                     />
                     <HomeCard 
                     tela="/Pinturas" 
                     title="PINTURA" 
-                    foto="https://construindodecor.com.br/wp-content/uploads/2015/08/textura-com-rolo.jpg" 
+                    foto="https://assets.izap.com.br/clubedastintas.com/uploads/img5a3bda309ceef.jpg"  
                     descricao="A escolha dos materiais e técnica adequadas está diretamente ligada ao resultado desejado para o trabalho."
                     />
                 </div>
