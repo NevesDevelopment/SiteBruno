@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom';
 //-------------------------------------------------------------------------------------------------//
 const HomeCard = (props) => (
 //--------------------------------Apresenta elementos em tela--------------------------------------//
-    <div id="homeCard" className="col-12 col-sm-4 " >
+    <div id="homeCard" className="col-12  col-sm-4 " >
         <div className="card" id="card">   
             <Card>
                 <Card.Img className="imagem" variant="top" src={props.foto}/>
