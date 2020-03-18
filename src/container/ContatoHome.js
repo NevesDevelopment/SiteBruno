@@ -15,7 +15,7 @@ export default class ContatoHome extends Component {
                     <p><i className="fas fa-mobile-alt"></i>&nbsp;(31) 97533-7286</p>
                     <p><i className="fas fa-envelope-square"></i>&nbsp;brunoornelas17@gmail.com</p>
                     <hr />
-                    <p className="mb-0">Desde já, agradeço o seu contato e preferência!</p>
+                    <p className="mb-0">Desde já agradeço o seu contato e preferência!</p>
                 </Alert>
                 </div>
             </div>
