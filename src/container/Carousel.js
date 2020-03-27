@@ -36,7 +36,7 @@ export default class Gessos extends Component {
                     {v.map((photo, i)=> {
                         return <Carousel.Item key={i}>
                                     <img 
-                                    src={photo.endereco} 
+                                    src={photo.imageUrl} 
                                     key={i} 
                                     alt="Frist slide"
                                     />
