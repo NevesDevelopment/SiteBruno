@@ -15,7 +15,7 @@ export default class Sobre extends Component {
                     <Alert.Heading><i className="fas fa-fill-drip p-1 ">&nbsp;Bruno Pintor</i></Alert.Heading>
                     <hr />
                     <p>&nbsp;É um profissional que busca promover, através de 
-                    seus serviços, uma relaçao harmônica entre funcionarios, pessoas e seus clientes.</p>
+                    seus serviços, uma relação harmônica entre funcionarios, pessoas e seus clientes.</p>
                     <p>&nbsp;<i className="fas fa-low-vision"></i></p>
                     <p className="mb-0">Busca ser um profissional de referência  pela qualidade dos seus serviços 
                     e atendimento.</p>
