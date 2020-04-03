@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 //----------------------------------------Carrega Rotas--------------------------------------------//
 import NavBar from '../ui/NavBar';
 import Carousel from './Carousel';
+import Contato from './ContatoHome';
 //-------------------------------------------------------------------------------------------------//
 export default class Texturas extends Component {
     render() {
@@ -11,6 +12,7 @@ export default class Texturas extends Component {
             <div> 
                 <NavBar/>
                 <Carousel Child="ImagesTextura"/>
+                <Contato />
             </div>
         );
     }
