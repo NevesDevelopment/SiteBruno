@@ -39,7 +39,7 @@ export default class Gessos extends Component {
                                     src={photo.imageUrl} 
                                     key={i} 
                                     alt="Frist slide"
-                                    height="1000px"
+                                    height="900px"
                                     />
                         </Carousel.Item>
                     })}
